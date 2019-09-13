@@ -1,0 +1,79 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #fff;
+  font-family: "-apple-system", "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Helvetica Neue", "Arial", "sans-serif", "Apple Color Emoji",
+    "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/* z-index */
+
+.zIndex0 {
+  z-index: 0;
+}
+
+.zIndex5 {
+  z-index: 5;
+}
+
+.zIndex10 {
+  z-index: 10;
+}
+
+.zIndex100 {
+  z-index: 100;
+}
+
+/* Shared colors across brands */
+.error {
+  color: #f44336;
+}
+.success {
+  color: green;
+}
+
+.greyBackground {
+  background-color: #f2f3f8;
+}
+
+/* full width buttons */
+.fullWidth {
+  width: 100%;
+}
+
+.ajaxLabel label {
+  background: #fff;
+  padding: 0 8px;
+  margin-left: -8px;
+}
+
+/* Global module spacing and padding */
+.moduleTitle div {
+  padding: 20px;
+}
+
+.moduleContent {
+  padding: 20px;
+}
+
+/* Sizing and layout hacks for Material UI to work properly with out layout */
+#root {
+  height: 100%;
+}
+
+header.MuiPaper-root + .MuiPaper-root,
+header.MuiPaper-root + .MuiPaper-root > .MuiGrid-root {
+  height: 100%;
+}
+
+.MuiFormGroup-root.inlineLabels {
+  flex-direction: row;
+}

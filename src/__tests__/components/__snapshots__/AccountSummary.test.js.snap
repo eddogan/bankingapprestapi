@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="makeStyles-loading-3"
+>
+  <div
+    className="MuiBox-root MuiBox-root-6"
+  >
+    Loading...
+  </div>
+</div>
+`;

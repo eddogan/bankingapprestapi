@@ -1,0 +1,98 @@
+{
+  "section1": {
+    "id": 1,
+    "sectionHeight": "128",
+    "title": "Who is Trans2Pay?",
+    "descriptions": [
+      {
+        "text": "Trans2Pay (T2P) is the service provider for your dedicated account. Our duties include drafting funds from your primary bank account into your dedicated account as provided for in your Application, and executing disbursement instructions in a commercially reasonable manner as soon as practical after receipt of such instructions."
+      }
+    ]
+  },
+  "section2": {
+    "id": 2,
+    "sectionHeight": "128",
+    "title": "How do I contact Trans2Pay?",
+    "descriptions": [
+      {
+        "text": ""
+      }
+    ],
+    "listItems": [{
+        "text": "T2P offices are located at 4343 S. 118th E. Ave., Suite 220 Tulsa, OK 74146."
+      },
+      {
+        "text": "Our Customer Support Team can be reached by phone at"
+      },
+      {
+        "text": "or by sending an email to."
+      },
+      {
+        "text": "Our offices are open Monday through Friday, from 9:00 AM to 6:00 PM Central Standard Time. Our offices are closed on all Bank Holidays."
+      }
+    ],
+    "customerSupportTeamPhoneNumber": "8775065044",
+    "customerSupportTeamEmailAddress": "cs@trans2pay.net"
+  },
+  "section3": {
+    "id": 3,
+    "sectionHeight": "198",
+    "title": "How do I keep track of my Account activity?",
+    "descriptions": [{
+        "text": "Following your first deposit, you will receive your first monthly statement showing your Account activity and balance by mail.  All other statements will be made available online. If you desire to continue receiving a paper statement via the United States Postal Service, please contact Customer Service toll free at"
+      },
+      {
+        "text": "Additionally you may access your account activity via our telephone Interactive System IVR. Telephone access requires that you use your 4-digit IVR Password to access Account information. Additionally, your IVR Password may be used for verification purposes should you need to contact a Customer Service representative. To retrieve this password, please contact Customer Service at"
+      }
+    ],
+    "customerServicePhoneNumber": "8775065044"
+  },
+  "section6": {
+    "id": 6,
+    "sectionHeight": "147",
+    "title": "How do I make a change to an automatic scheduled debit from my checking/savings account?",
+    "descriptions": [{
+      "text": "If you need to make a change to an upcoming scheduled debit, contact your program sponsor who can advise you of any impact this change may have on pending settlement negotiations. Your program sponsor may provide you with additional instructions to contact our offices. You may do so by contacting our Customer Support team at"
+    }],
+    "customerSupportTeamPhoneNumber": "8775065044"
+  },
+  "section7": {
+    "id": 7,
+    "sectionHeight": "109",
+    "title": "Where are my funds being held on deposit?",
+    "descriptions": [{
+      "text": "Your Account balance is on deposit at an FDIC-insured bank and is FDIC-insured up to $250,000 or such other limit that may be determined by the FDIC from time to time."
+    }]
+  },
+  "section8": {
+    "id": 8,
+    "sectionHeight": "467",
+    "title": "How do I deposit additional funds into my account?",
+    "descriptionA": "Payment Concepts' clients may deposit funds into their account using several methods:",
+    "descriptionB": "Details for each of these deposit methods are specific to your depository bank and are included in your Welcome Letter. If you should have any questions or require additional information you may contact our Customer Support Team at ",
+    "listItemsSection": [{
+        "id": 1,
+        "title": "Standard or Express Mail",
+        "description": "Personal checks, money orders, or cashier's checks should be made payable to Trans2Pay. Please make sure the T2P account holder's name and sixteen (16) digit account number are included on all deposit items. No checks made payable to the Sponsor, depository bank, or account holder can be accepted. Cash is not accepted."
+      },
+      {
+        "id": 2,
+        "title": "Wire Transfers",
+        "description": "Wire Transfers are the preferred method for deposits greater than $2,000 and will credit to the account no later than the next banking day. Wire transfer instructions are included in your Welcome Letter. If you have any questions or require additional information you may contact our Customer Support Team at"
+      },
+      {
+        "id": 3,
+        "title": "MoneyGram",
+        "description": "MoneyGram deposits will credit to the account no later than the next banking day. The MoneyGram Agent Locater can be found at"
+      },
+      {
+        "id": 4,
+        "title": "ACH Transfers",
+        "description": "ACH transfers can also be initiated from your personal bank's online banking."
+      }
+    ],
+    "moneyGramUrl": "http://www.moneygram.com",
+    "customerSupportTeamPhoneNumber": "8775065044",
+    "wireTransfersNumber": ""
+  }
+}
